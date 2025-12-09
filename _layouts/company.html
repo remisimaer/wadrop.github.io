@@ -1,0 +1,29 @@
+---
+layout: default
+bodyClass: "page-company"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="company company-single">
+        <h1 class="title">{{page.title}}</h1>
+        {% if page.website %}
+        <p class="mb-2">
+          <strong>Website:</strong> <a href="{{page.website}}" target="_blank" rel="noopener">{{page.website}}</a>
+        </p>
+        {% endif %}
+        {% if page.founded %}
+        <p class="mb-2"><strong>Founded:</strong> {{page.founded}}</p>
+        {% endif %}
+        {% if page.location %}
+        <p class="mb-2"><strong>Location:</strong> {{page.location}}</p>
+        {% endif %}
+        {% if page.employees %}
+        <p class="mb-4"><strong>Employees:</strong> {{page.employees}}</p>
+        {% endif %}
+        <div class="content mt-4">{{content}}</div>
+      </div>
+    </div>
+  </div>
+</div>

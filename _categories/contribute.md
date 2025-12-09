@@ -1,10 +1,9 @@
 ---
-title: "Hosting & Infra"
-date: 2019-03-28T15:14:54+10:00
-weight: 5
+title: "Contribute"
+weight: 6
 ---
 
-Resources on hosting solutions and infrastructure specifics within the Japanese market.
+This site is open source. You're welcome to contribute!
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

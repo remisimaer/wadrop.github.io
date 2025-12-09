@@ -1,10 +1,12 @@
 ---
-title: "Modules"
-date: 2019-01-28T15:15:26+10:00
-weight: 2
+title: "Guides"
+weight: 4
 ---
 
-A curated list of Drupal modules created specifically to address unique Japanese needs, standards, and integrations.
+A collection of learning resources, including official translated documentation, technical blogs, and video archives of conferences and workshops.
+<!--more-->
+
+Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

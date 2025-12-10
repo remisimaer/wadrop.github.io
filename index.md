@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: WaDrop.org - Drupal in Japan
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+description: Directory of Drupal related companies, Japanese-specific modules, and local communities listings. Your essential gateway to the Japanese Drupal ecosystem.
+# intro_image: "images/illustrations/pointing.svg"
+# intro_image_absolute: true
+# intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# The Central Hub for Drupal Resources in Japan
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Directory of Drupal related companies, Japanese-specific modules, and local communities listings. Your essential gateway to the Japanese Drupal ecosystem.

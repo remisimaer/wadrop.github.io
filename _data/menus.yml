@@ -1,21 +1,26 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Categories"
+    url: "/categories/"
     weight: 2
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Forums"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
-
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Categories"
+    url: "/categories/"
     weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "Forums"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
+    weight: 4

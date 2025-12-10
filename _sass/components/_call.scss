@@ -3,17 +3,24 @@
   overflow: hidden;
   background-color: $white-offset;
   border-radius: 4px;
-  // box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
   width: 100%;
   display: flex;
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
   z-index: 2;
   @include media-breakpoint-up(sm) {
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
+  }
+  &.text-center {
+    .call-box-top,
+    .call-box-bottom {
+      text-align: center;
+      flex: 1 1 100%;
+    }
   }
   .call-box-top {
     flex: 1 0 auto;

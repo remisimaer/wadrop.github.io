@@ -3,81 +3,94 @@ title: "Hosting & Infra"
 weight: 5
 ---
 
-Resources on hosting solutions and infrastructure specifics within the Japanese market.
+Resources on hosting solutions and infrastructure specifics within the Japanese market. This section focuses on solutions that are either physically located in Japan, offer Japanese-language support, or cater to Japanese enterprise requirements.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+* * *
 
-# Objectives
+## Hyperscale Cloud Providers (Japan Regions)
 
-Financial accounting and financial reporting are often used as synonyms.
+### Amazon Web Services (AWS)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+High-availability, scalable infrastructure with data centers in Tokyo and Osaka regions. AWS is widely used for high-traffic Drupal sites requiring robust performance and regional compliance.
 
-## Relevance
+[Visit AWS Japan](https://aws.amazon.com/jp/)
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+* * *
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### Microsoft Azure
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Enterprise-grade cloud platform with Japan East and Japan West regions. Often chosen by companies already using Microsoft tools and requiring enterprise-level Drupal deployments.
 
-## Faithful Representation
+[Visit Azure Japan](https://azure.microsoft.com/ja-jp/)
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+* * *
 
-## Enhancing Qualitative Characteristics
+### Google Cloud Platform (GCP)
 
-### Verifiability
+Strong infrastructure in Tokyo region, ideal for data analytics and high-performance Drupal applications with low-latency requirements.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+[Visit GCP Japan](https://cloud.google.com/japan)
 
-### Comparability
+* * *
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## Drupal-Specific Managed Hosting
 
-### Understandability
+### Acquia
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+The leading enterprise Drupal cloud platform offering dedicated hosting with global performance standards. Acquia leverages local AWS/GCP regions for Japan, making it the key enterprise-level choice for mission-critical Drupal sites.
 
----
+[Visit Acquia](https://www.acquia.com/)
 
-## Statement of cash flows
+* * *
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+### Platform.sh
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+Developer-centric platform with continuous deployment (CI/CD) capabilities. Provides simple regional deployment options to Asian/Japanese data centers, ideal for modern Drupal workflows.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+[Visit Platform.sh](https://platform.sh/)
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+* * *
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+### Amazee.io
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+Swiss-based Drupal hosting expert partnered with ANNAI for extended Drupal 7 support. This strategic partnership combines amazee's technical expertise with ANNAI's local knowledge and experience, providing high-quality maintenance and support services specifically tailored to Japanese clients using Drupal 7.
 
-## Statement of financial position (balance sheet)
+[Visit Amazee.io](https://www.amazee.io/)
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+* * *
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+## Major Japanese Hosting Providers
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### Sakura Internet
+
+One of Japan's largest hosting providers with a strong market presence. Offers shared hosting, VPS, private cloud, and dedicated solutions with Japanese-language support, local compliance, and data centers in Tokyo and Osaka.
+
+[Visit Sakura Internet](https://www.sakura.ad.jp/)
+
+* * *
+
+### GMO Internet
+
+Major provider offering a complete range of hosting and cloud services including shared hosting, public and private cloud, and e-commerce solutions. Features multilingual support, easy integration with platforms like Drupal, and data centers in Tokyo.
+
+[Visit GMO Internet](https://www.gmo.jp/)
+
+* * *
+
+### IIJ (Internet Initiative Japan)
+
+Historic provider with strong technical expertise. Offers dedicated hosting, cloud, and network solutions with security compliance, 24/7 technical support, and data centers in Tokyo.
+
+[Visit IIJ](https://www.iij.ad.jp/)
+
+* * *
+
+### NTT Communications
+
+Global provider with strong presence in Japan. Delivers cloud hosting, network solutions, and security services with robust infrastructure, international compliance standards, and Japanese-language support.
+
+[Visit NTT Communications](https://www.ntt.com/)
+
+* * *
+
+

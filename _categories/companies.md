@@ -60,3 +60,11 @@ Studio Umi is a Japanese agency specializing in design, development, and operati
 [Learn More](/companies/studio-umi)
 
 * * *
+
+### Texpress
+
+Founded in 1999 and based in Tokyo, Texpress is a company specializing in system development and technological solutions. They position themselves as an acceleration partner for Digital Transformation, providing optimal solutions at maximum speed. Texpress offers expertise in Drupal CMS construction, custom development, and mobile/wearable application development.
+
+[Learn More](/companies/texpress)
+
+* * *

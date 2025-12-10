@@ -11,7 +11,7 @@ Find event listings (Meetups, Camps), discussion channels (Slack, forums), and l
 
 The official discussions forum for WaDrop.org. This is the place to ask questions, share ideas, propose improvements to the repository, and engage with the community about Drupal in Japan. All contributions are welcome!
 
-➜ [Join WaDrop.org Discussions](https://github.com/remisimaer/wadrop.github.io/discussions)
+[Join WaDrop.org Discussions](https://github.com/remisimaer/wadrop.github.io/discussions)
 
 * * *
 

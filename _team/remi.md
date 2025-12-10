@@ -3,7 +3,7 @@ title: "Rémi SIMAER"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/remi.jpg"
 jobtitle: "Founder of WaDrop.org"
-linkedinurl: "https://www.linkedin.com/in/remisimaer/"
+website: "https://remisimaer.com/"
 promoted: true
 weight: 1
 ---

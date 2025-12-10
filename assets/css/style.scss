@@ -2,8 +2,8 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
+$primary: #bd0f1b;
+$primary-dark: #8a0b14;
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
@@ -58,7 +58,7 @@ $sub-footer-text-color: $white;
 // @import "bootstrap/navbar";
 // @import "bootstrap/card";
 // @import "bootstrap/accordion";
-// @import "bootstrap/breadcrumb";
+@import "bootstrap/breadcrumb";
 // @import "bootstrap/pagination";
 // @import "bootstrap/badge";
 // @import "bootstrap/alert";

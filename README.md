@@ -42,7 +42,7 @@ bundle exec jekyll build
 **Content License:** All original content, including text, photographs, pictures, logos (e.g., the WaDrop.org logo), graphic designs, videos, audio, and documents (e.g., PDF, Word) unless otherwise noted, is the exclusive property of [Rémi SIMAER](https://x.com/remi_simaer) or the individuals who contributed to the content and is licensed under All Rights Reserved.
 
 ### Credits
-
-- Beautiful royalty-free illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
 - Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
+- Page categories, picture of https://unsplash.com/fr/@tak_tag
+- Page index, picture of https://unsplash.com/fr/@blackodc
+- Page team, picture of https://unsplash.com/fr/@jpreet

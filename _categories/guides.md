@@ -19,7 +19,7 @@ The complete official Drupal User Guide translated into Japanese. This is the es
 
 ## Video Tutorials
 
-### Beluga Sensei's Drupal Class (ベルーガ先生のDrupal教室)
+### Beluga Sensei's Drupal Class
 
 This channel provides tutorials on using Drupal. Videos use slides and screen demos to help beginners visually understand Drupal's power and flexibility.
 

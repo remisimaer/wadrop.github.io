@@ -9,7 +9,7 @@ This site is open source. You're welcome to contribute!
 
 ## How to Contribute
 
-We welcome contributions from the community to help make WaDrop the most comprehensive resource for Drupal in Japan.
+We welcome contributions from the community to help make WaDrop.org the most comprehensive resource for Drupal in Japan.
 
 ### For Developers
 

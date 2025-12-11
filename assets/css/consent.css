@@ -1,0 +1,125 @@
+#cookie-consent-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.95);
+  color: white;
+  padding: 20px;
+  z-index: 9999;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.cookie-consent-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.cookie-consent-content p {
+  margin: 0;
+  flex: 1;
+  min-width: 300px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: white;
+}
+
+.cookie-consent-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.cookie-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.cookie-accept {
+  background: #bd0f1b;
+  color: white;
+}
+
+.cookie-accept:hover {
+  background: #8a0b14;
+}
+
+.cookie-decline {
+  background: #666;
+  color: white;
+}
+
+.cookie-decline:hover {
+  background: #555;
+}
+
+.cookie-info {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cookie-info:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 768px) {
+  .cookie-consent-content {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .cookie-consent-content p {
+    min-width: auto;
+    text-align: center;
+  }
+  
+  .cookie-consent-buttons {
+    justify-content: center;
+  }
+  
+  .cookie-btn {
+    flex: 1;
+  }
+}
+
+@media print {
+  #cookie-consent-banner {
+    display: none !important;
+  }
+}
+
+/* Reset cookie consent button on privacy page */
+#reset-cookie-consent {
+  padding: 10px 20px;
+  background: #bd0f1b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  margin: 20px 0;
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+#reset-cookie-consent:hover {
+  background: #8a0b14;
+}

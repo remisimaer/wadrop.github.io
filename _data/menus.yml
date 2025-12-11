@@ -24,3 +24,6 @@ footer:
   - name: "Forums"
     url: "https://github.com/remisimaer/wadrop.github.io/discussions"
     weight: 4
+  - name: "Privacy"
+    url: "/privacy/"
+    weight: 5

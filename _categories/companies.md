@@ -23,7 +23,7 @@ Based in Tokyo and founded in 2007, ANNAI is a company specializing in web syste
 
 ### Digital Circus
 
-Founded in 1999 in Tokyo with approximately 44 employees, Digital Circus is the first Japanese company certified as an official Drupal Association partner. They offer comprehensive Drupal services including development, maintenance, consulting, and training. Notable projects include Japan Airlines, mainichi.jp (one of Japan's largest news sites), and various e-commerce platforms.
+Founded in 1999 in Tokyo, Digital Circus is the first Japanese company certified as an official Drupal Association partner. They offer comprehensive Drupal services including development, maintenance, consulting, and training. Notable projects include Japan Airlines, mainichi.jp (one of Japan's largest news sites), and various e-commerce platforms.
 
 [Learn More](/companies/digital-circus)
 

@@ -3,13 +3,12 @@ title: "Digital Circus"
 website: "https://dgcircus.com/"
 founded: 1999
 location: "Tokyo, Japan"
-employees: 44
 weight: 2
 ---
 
 ## General Information
 
-Digital Circus was founded in 1999 and is based in Tokyo with approximately 44 employees. It is recognized as the first Japanese company certified as an official partner of the Drupal Association, demonstrating its expertise and commitment to the Drupal ecosystem. Their tagline is clear: "Digital Circus is the first company in Japan to be verified by the Drupal Association as a Certified Drupal Partner, and we offer support for Drupal in Japan."
+Digital Circus was founded in 1999 and is based in Tokyo. It is recognized as the first Japanese company certified as an official partner of the Drupal Association, demonstrating its expertise and commitment to the Drupal ecosystem. Their tagline is clear: "Digital Circus is the first company in Japan to be verified by the Drupal Association as a Certified Drupal Partner, and we offer support for Drupal in Japan."
 
 ## Drupal Services
 

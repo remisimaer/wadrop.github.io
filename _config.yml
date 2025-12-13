@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'WaDrop.org - Drupal in Japan'
+url: 'https://wadrop.org'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

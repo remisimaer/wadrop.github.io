@@ -28,6 +28,8 @@
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image"/>
+  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.data.seo.meta_twitter_site }}"/>{% endif %}
+  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.data.seo.meta_twitter_creator }}"/>{% endif %}
   <meta name="twitter:title" content="{{ page.title | default: site.title }}"/>
   <meta name="twitter:description" content="{{ page.description | default: site.description }}"/>
   <meta name="twitter:image" content="{{ page.image | default: '/images/social/og-image.png' | absolute_url }}"/>

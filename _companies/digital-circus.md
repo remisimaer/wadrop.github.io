@@ -18,7 +18,6 @@ Digital Circus offers a comprehensive range of Drupal services, including:
 - **Consulting and Training**: Assisting clients in understanding and effectively using Drupal, with experts capable of addressing technical and functional questions.
 - **Integration and Customization**: Integration services with other systems and Drupal customization to meet specific client needs.
 - **Multilingual Support**: Japanese-language support, facilitating Drupal adoption in the local market.
-- **Module Development**: Digital Circus has contributed to Drupal modules, notably the Commerce module for e-commerce, offering comprehensive product, order, and inventory management features.
 
 ## Target Sectors
 
@@ -44,7 +43,3 @@ Digital Circus positions itself as a leading technical expert, recognized for it
 - ISO/IEC 27001 and JIS Q 27001 certifications for information security management.
 - Acquia Certified Site Builder and Developer certifications for Drupal 8, 9, and 10.
 - Official partnership with Acquia and the Drupal Association, with strong community involvement (organizing meetups, sponsoring conferences).
-
-## Online Presence
-
-Digital Circus maintains an active blog, technical resources (tutorials, books), a dynamic community, and profiles on LinkedIn, GitHub, and Drupal.org. They regularly organize events to promote open source and web development.

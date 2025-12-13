@@ -41,7 +41,3 @@ ANNAI positions itself as a technical expert and strategic partner, offering com
 
 - Drupal 8 Grand Master and Drupal Technical Ambassador certifications.
 - Partnerships with major Drupal ecosystem players.
-
-## Online Presence
-
-ANNAI provides technical resources, organizes study sessions and seminars, and is active on LinkedIn, GitHub, and Drupal.org. They also contribute to the open-source community and organize events to promote web technologies.

@@ -41,7 +41,3 @@ Studio Umi positions itself as a technical expert and strategic partner, offerin
 - ISO/IEC 27001 and JIS Q 27001 certifications.
 - Acquia Certified Site Builder and Developer certifications.
 - Partnerships with Acquia and the Drupal Association, with strong community involvement.
-
-## Online Presence
-
-Studio Umi has a blog, technical resources, and is active on LinkedIn, GitHub, and Drupal.org. They regularly organize events to promote open source and digital transformation.

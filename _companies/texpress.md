@@ -52,7 +52,3 @@ Texpress positions itself as a technology partner specialized in web development
 - API integration and external system connectivity
 - Cross-platform mobile development (iOS/Android)
 - Wearable device application development
-
-## Online Presence
-
-With over 25 years of experience since 1999, Texpress maintains a strong presence in Tokyo's technology sector, offering comprehensive digital transformation services from CMS implementation to mobile development.

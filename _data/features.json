@@ -1,14 +1,17 @@
 [
   {
     "title": "Japanese Companies",
-    "description": "Discover companies with Drupal expertise in Japan."
+    "description": "Discover companies with Drupal expertise in Japan.",
+    "url": "/categories/companies/"
   },
   {
     "title": "Specialized Modules",
-    "description": "Find Drupal modules built specifically for Japanese requirements."
+    "description": "Find Drupal modules built specifically for Japanese requirements.",
+    "url": "/categories/modules/"
   },
   {
     "title": "Learning Resources",
-    "description": "Access guides, tutorials, and documentation in Japanese."
+    "description": "Access guides, tutorials, and documentation in Japanese.",
+    "url": "/categories/guides/"
   }
 ]

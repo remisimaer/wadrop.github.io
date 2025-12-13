@@ -41,7 +41,3 @@ Mochiya positions itself as a technical expert and strategic partner, offering c
 - ISO/IEC 27001 and JIS Q 27001 certifications.
 - Acquia Certified Site Builder and Developer certifications.
 - Partnerships with Acquia and the Drupal Association, with strong community involvement.
-
-## Online Presence
-
-Mochiya provides technical resources, organizes events, and is active on LinkedIn, GitHub, and Drupal.org. They also contribute to the open-source community and organize meetups.

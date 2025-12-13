@@ -2,6 +2,8 @@
 title: "About"
 layout: page
 description: "Learn about WaDrop.org and its mission to showcase the Drupal community in Japan"
+permalink: /about/
+lang: en
 ---
 
 ## Genesis of the Project

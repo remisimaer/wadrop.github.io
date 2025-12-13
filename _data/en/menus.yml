@@ -1,0 +1,35 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Categories"
+    url: "/categories/"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 4
+  - name: "Forums"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
+    weight: 5
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Categories"
+    url: "/categories/"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 4
+  - name: "Forums"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
+    weight: 5
+  - name: "Privacy"
+    url: "/privacy/"
+    weight: 6

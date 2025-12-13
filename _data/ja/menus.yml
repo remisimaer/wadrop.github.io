@@ -1,0 +1,35 @@
+main:
+  - name: "ホーム"
+    url: "/ja/"
+    weight: 1
+  - name: "カテゴリー"
+    url: "/ja/categories/"
+    weight: 2
+  - name: "チーム"
+    url: "/ja/team/"
+    weight: 3
+  - name: "概要"
+    url: "/ja/about/"
+    weight: 4
+  - name: "フォーラム"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
+    weight: 5
+footer:
+  - name: "ホーム"
+    url: "/ja/"
+    weight: 1
+  - name: "カテゴリー"
+    url: "/ja/categories/"
+    weight: 2
+  - name: "チーム"
+    url: "/ja/team/"
+    weight: 3
+  - name: "概要"
+    url: "/ja/about/"
+    weight: 4
+  - name: "フォーラム"
+    url: "https://github.com/remisimaer/wadrop.github.io/discussions"
+    weight: 5
+  - name: "プライバシー"
+    url: "/ja/privacy/"
+    weight: 6

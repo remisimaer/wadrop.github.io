@@ -27,3 +27,13 @@
     margin-top: auto;
   }
 }
+
+.feature-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  height: 100%;
+  &:hover {
+    text-decoration: none;
+  }
+}

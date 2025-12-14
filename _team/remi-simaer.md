@@ -9,7 +9,7 @@ permalink: /team/remi-simaer/
 lang: en
 ---
 
-I have been developing my technical, DevOps, coordination, and support skills for several years within development teams at Capgemini.
+I have been developing my technical, DevOps, coordination, and support skills for several years within development teams at [Capgemini](https://www.capgemini.com/) France.
 
 I am continuously improving my knowledge of architecture solutions to ensure optimized, high-performance designs while maintaining project budget control.
 

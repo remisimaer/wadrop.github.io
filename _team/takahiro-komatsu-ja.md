@@ -1,7 +1,7 @@
 ---
 title: "小松 高廣"
 image: "images/team/takahiro.png"
-jobtitle: "VIP Contributor"
+jobtitle: "VIPコントリビューター"
 website: "https://kotolab.jp/"
 promoted: true
 weight: 1

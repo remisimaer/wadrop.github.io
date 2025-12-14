@@ -4,6 +4,8 @@ website: "https://annai.co.jp/"
 founded: 2007
 location: "Tokyo, Japan"
 weight: 1
+permalink: /companies/annai/
+lang: en
 ---
 
 ## General Information

@@ -8,7 +8,7 @@ main:
   - name: "チーム"
     url: "/ja/team/"
     weight: 3
-  - name: "概要"
+  - name: "このサイトについて"
     url: "/ja/about/"
     weight: 4
   - name: "フォーラム"
@@ -24,7 +24,7 @@ footer:
   - name: "チーム"
     url: "/ja/team/"
     weight: 3
-  - name: "概要"
+  - name: "このサイトについて"
     url: "/ja/about/"
     weight: 4
   - name: "フォーラム"

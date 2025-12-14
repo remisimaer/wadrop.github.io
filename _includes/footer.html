@@ -3,9 +3,14 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h2 class="footer-title">{{site.title}}</h2>
+          {%- assign localized_site_title = site.title -%}
+          {%- if site.active_lang == 'ja' -%}
+            {%- assign localized_site_title = site.title_ja | default: site.title -%}
+          {%- endif -%}
+          <h2 class="footer-title">{{ localized_site_title }}</h2>
           <ul>
-            {% assign footermenu = site.data[site.active_lang].menus.footer | sort: 'weight'  %}
+            {% assign menus = site.data[site.active_lang].menus | default: site.data.menus %}
+            {% assign footermenu = menus.footer | sort: 'weight' %}
             {% for item in footermenu %}
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>

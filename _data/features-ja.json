@@ -1,0 +1,17 @@
+[
+  {
+    "title": "日本のDrupal企業",
+    "description": "日本国内でDrupalに強い企業を探せます。",
+    "url": "/categories/companies/"
+  },
+  {
+    "title": "日本向けモジュール",
+    "description": "日本の要件に合わせて作られたDrupalモジュールを探せます。",
+    "url": "/categories/modules/"
+  },
+  {
+    "title": "学習リソース",
+    "description": "日本語のガイド、チュートリアル、ドキュメントにアクセスできます。",
+    "url": "/categories/guides/"
+  }
+]

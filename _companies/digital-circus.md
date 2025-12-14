@@ -4,6 +4,8 @@ website: "https://dgcircus.com/"
 founded: 1999
 location: "Tokyo, Japan"
 weight: 2
+permalink: /companies/digital-circus/
+lang: en
 ---
 
 ## General Information

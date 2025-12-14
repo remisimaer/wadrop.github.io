@@ -1,11 +1,12 @@
 ---
 title: "Rémi SIMAER"
-date: 2018-11-19T10:47:58+10:00
 image: "images/team/remi.jpg"
 jobtitle: "Founder of WaDrop.org"
 website: "https://remisimaer.com/"
 promoted: true
 weight: 1
+permalink: /team/remi-simaer/
+lang: en
 ---
 
 I have been developing my technical, DevOps, coordination, and support skills for several years within development teams at Capgemini.

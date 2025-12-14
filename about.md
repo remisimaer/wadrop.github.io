@@ -10,7 +10,7 @@ lang: en
 
 The idea to create WaDrop.org was born from a simple but fundamental observation: despite the existence of a dynamic and rapidly expanding Drupal ecosystem in Japan, there was a critical lack of a centralized platform providing easy access to all available resources for professionals and enthusiasts of this CMS.
 
-It is in this context that Rémi SIMAER, in close collaboration with Takahiro KOMATSU, decided to create this platform with several ambitious goals:
+It is in this context that Rémi SIMAER created this platform, and works closely with Takahiro KOMATSU to keep the site evolving.
 
 ### Create a Comprehensive Repository
 

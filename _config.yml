@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'WaDrop.org - Drupal in Japan'
+title_ja: 'WaDrop.org - 日本のDrupal'
 url: 'https://wadrop.org'
 
 # Multilingual settings

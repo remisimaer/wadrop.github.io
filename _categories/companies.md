@@ -1,6 +1,8 @@
 ---
 title: "Companies"
 weight: 1
+permalink: /categories/companies/
+lang: en
 ---
 
 Japan has a dynamic ecosystem of companies specializing in the development and maintenance of Drupal-based solutions. These companies play a key role in the digital transformation of Japanese organizations, ranging from public administrations to large private enterprises, including educational institutions and media.

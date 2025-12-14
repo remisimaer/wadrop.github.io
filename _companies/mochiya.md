@@ -3,6 +3,8 @@ title: "Mochiya"
 website: "https://mochiya.ad.jp/"
 location: "Tokyo, Japan"
 weight: 5
+permalink: /companies/mochiya/
+lang: en
 ---
 
 ## General Information

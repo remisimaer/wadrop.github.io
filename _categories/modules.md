@@ -1,6 +1,8 @@
 ---
 title: "Modules"
 weight: 2
+permalink: /categories/modules/
+lang: en
 ---
 
 A curated list of Drupal modules created specifically to address unique Japanese needs, standards, and integrations.

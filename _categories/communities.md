@@ -1,6 +1,8 @@
 ---
 title: "Communities"
 weight: 3
+permalink: /categories/communities/
+lang: en
 ---
 
 Find event listings (Meetups, Camps), discussion channels (Slack, forums), and local user groups to engage with the Japanese Drupal community.

@@ -1,0 +1,27 @@
+{%- assign breadcrumb_home = 'Home' -%}
+{%- assign breadcrumb_categories = 'Categories' -%}
+{%- assign breadcrumb_companies = 'Companies' -%}
+{%- assign breadcrumb_team = 'Team' -%}
+
+{%- if site.active_lang == 'ja' -%}
+  {%- assign breadcrumb_home = 'ホーム' -%}
+  {%- assign breadcrumb_categories = 'カテゴリー' -%}
+  {%- assign breadcrumb_companies = '企業' -%}
+  {%- assign breadcrumb_team = 'チーム' -%}
+{%- endif -%}
+
+<nav aria-label="breadcrumb" class="mb-4">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{% include localize-url.html url='/' %}">{{ breadcrumb_home }}</a></li>
+    {% if include.show_categories %}
+    <li class="breadcrumb-item"><a href="{% include localize-url.html url='/categories/' %}">{{ breadcrumb_categories }}</a></li>
+    {% endif %}
+    {% if include.show_companies %}
+    <li class="breadcrumb-item"><a href="{% include localize-url.html url='/categories/companies/' %}">{{ breadcrumb_companies }}</a></li>
+    {% endif %}
+    {% if include.show_team %}
+    <li class="breadcrumb-item"><a href="{% include localize-url.html url='/team/' %}">{{ breadcrumb_team }}</a></li>
+    {% endif %}
+    <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+  </ol>
+</nav>

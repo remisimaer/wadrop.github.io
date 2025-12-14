@@ -3,6 +3,8 @@ title: "Genero Inc."
 website: "https://genero.jp/"
 location: "Tokyo, Japan"
 weight: 3
+permalink: /companies/genero/
+lang: en
 ---
 
 ## General Information

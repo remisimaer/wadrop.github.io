@@ -1,7 +1,7 @@
 ---
 title: "Rémi SIMAER"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/remi.jpg"
+image: "images/team/remi.png"
 jobtitle: "Founder of WaDrop.org"
 website: "https://remisimaer.com/"
 promoted: true

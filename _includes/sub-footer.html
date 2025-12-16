@@ -6,8 +6,12 @@
           {% if site.data.social %}
             {% include social.html %}
           {% endif %}
-          {% if site.data.seo.copyright_text %}
-          <div class="copyright">{{ site.data.seo.copyright_text }}</div>
+          {% assign copyright_text = site.data.seo.copyright_text %}
+          {% if site.active_lang == 'ja' %}
+            {% assign copyright_text = site.data.seo.copyright_text_ja | default: copyright_text %}
+          {% endif %}
+          {% if copyright_text %}
+          <div class="copyright">{{ copyright_text }}</div>
           {% endif %}
         </div>
       </div>

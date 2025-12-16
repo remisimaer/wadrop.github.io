@@ -4,6 +4,8 @@ website: "https://meta-info.co.jp/"
 founded: 2018
 location: "Tokyo, Japan"
 weight: 4
+permalink: /companies/metainfo/
+lang: en
 ---
 
 ## General Information

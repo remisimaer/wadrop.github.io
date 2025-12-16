@@ -1,6 +1,8 @@
 ---
 title: "Guides"
 weight: 4
+permalink: /categories/guides/
+lang: en
 ---
 
 A collection of learning resources, including official translated documentation, technical blogs, and video archives of conferences and workshops.

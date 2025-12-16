@@ -1,11 +1,13 @@
 ---
 title: WaDrop.org - Drupal in Japan
 layout: home
-description: Directory of Drupal related companies, Japanese-specific modules, and local communities listings. Your essential gateway to the Japanese Drupal ecosystem.
+description: Discover Drupal companies, Japan-focused modules, and local communities. Your gateway to the Japanese Drupal ecosystem.
+permalink: /
+lang: en
 ---
 
 <img src="/images/logo/logo.svg" alt="WaDrop.org Logo" class="intro-logo" />
 
-# The Central Hub for Drupal Resources in Japan
+# Japan’s Central Hub for Drupal
 
-Directory of Drupal related companies, Japanese-specific modules, and local communities listings. Your essential gateway to the Japanese Drupal ecosystem.
+Discover Drupal companies, Japan-focused modules, and local communities. Your gateway to the Japanese Drupal ecosystem.

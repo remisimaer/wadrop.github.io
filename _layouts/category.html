@@ -6,13 +6,7 @@ bodyClass: "page-category"
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
-      <nav aria-label="breadcrumb" class="mb-4">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li class="breadcrumb-item"><a href="{{ '/categories' | relative_url }}">Categories</a></li>
-          <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
-        </ol>
-      </nav>
+      {% include breadcrumb.html show_categories=true %}
       <div class="category category-single">
         <h1 class="title">{{page.title}}</h1>
         <div class="content">{{content}}</div>

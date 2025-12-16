@@ -1,7 +1,14 @@
 baseurl: '/'
 permalink: pretty
 title: 'WaDrop.org - Drupal in Japan'
+title_ja: 'WaDrop.org - 日本のDrupal'
 url: 'https://wadrop.org'
+
+# Multilingual settings
+languages: ["en", "ja"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "assets", "sitemap.xml"]
+parallel_localization: true
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -46,6 +53,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-polyglot
 
 exclude:
   - Gemfile

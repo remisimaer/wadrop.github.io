@@ -1,6 +1,8 @@
 ---
 title: "Contribute"
 weight: 6
+permalink: /categories/contribute/
+lang: en
 ---
 
 This site is open source. You're welcome to contribute!

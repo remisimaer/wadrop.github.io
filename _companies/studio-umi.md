@@ -3,6 +3,8 @@ title: "Studio Umi"
 website: "https://studioumi.jp"
 location: "Japan"
 weight: 6
+permalink: /companies/studio-umi/
+lang: en
 ---
 
 ## General Information

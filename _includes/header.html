@@ -1,12 +1,19 @@
 <div class='header'>
   <div class="container">
     <div class="logo">
-      <a href="{{ '/' | relative_url }}">
-        <img width="32px" height="32px" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" />
+      <a href="{% if site.active_lang == 'ja' %}/ja/{% else %}/{% endif %}">
+        {%- assign localized_site_title = site.title -%}
+        {%- if site.active_lang == 'ja' -%}
+          {%- assign localized_site_title = site.title_ja | default: site.title -%}
+        {%- endif -%}
+        <img width="32px" height="32px" alt="{{ localized_site_title }}" src="{{ site.logo.desktop | relative_url }}" />
         <span class="logo-text">WaDrop.org</span>
       </a>
     </div>
-    {% include main-menu.html %}
+    <div class="header-nav-wrapper">
+      {% include main-menu.html %}
+      {% include language-switcher.html %}
+    </div>
     {% include hamburger.html %}
   </div>
 </div>

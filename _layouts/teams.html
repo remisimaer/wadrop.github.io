@@ -25,10 +25,14 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name"><a href="{% include localize-url.html url=team.url %}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.website %}
-                    <a target="_blank" href="{{ team.website }}" rel="noreferrer">Website</a>
+                    {%- assign label_website = 'Website' -%}
+                    {%- if site.active_lang == 'ja' -%}
+                      {%- assign label_website = 'ウェブサイト' -%}
+                    {%- endif -%}
+                    <a target="_blank" href="{{ team.website }}" rel="noreferrer">{{ label_website }}</a>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.excerpt | truncate: 120 }}</div>
@@ -47,7 +51,7 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name"><a href="{% include localize-url.html url=team.url %}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                 </div>
             </div>

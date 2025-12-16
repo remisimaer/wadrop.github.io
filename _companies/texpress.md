@@ -4,6 +4,8 @@ website: "https://www.texpress.co.jp/"
 founded: 1999
 location: "Tokyo, Japan"
 weight: 7
+permalink: /companies/texpress/
+lang: en
 ---
 
 ## General Information

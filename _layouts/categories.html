@@ -20,7 +20,7 @@ bodyClass: "page-categories"
       <div class="category category-summary">
         <div class="category-content">
           <h2 class="category-title">
-            <a href="{{ category.url | relative_url }}">{{ category.title }}</a>
+            <a href="{% include localize-url.html url=category.url %}">{{ category.title }}</a>
           </h2>
           <p>{{ category.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>

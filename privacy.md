@@ -3,6 +3,7 @@ title: "Privacy Policy"
 layout: page
 description: "Privacy policy and cookie usage for WaDrop.org"
 permalink: /privacy/
+lang: en
 ---
 
 # Privacy Policy

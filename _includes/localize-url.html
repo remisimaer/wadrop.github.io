@@ -1,0 +1,14 @@
+{% comment %}
+  Localize URL filter - adds /ja/ prefix when active_lang is ja
+  Usage: {{ '/categories/' | localize_url }}
+{% endcomment -%}
+{%- if site.active_lang and site.active_lang != site.default_lang -%}
+  {%- assign url_path = include.url | remove_first: '/' -%}
+  {%- if url_path contains '://' or url_path contains 'mailto:' or url_path contains 'tel:' -%}
+    {{- include.url -}}
+  {%- else -%}
+    {{- '/' | append: site.active_lang | append: '/' | append: url_path | relative_url -}}
+  {%- endif -%}
+{%- else -%}
+  {{- include.url | relative_url -}}
+{%- endif -%}

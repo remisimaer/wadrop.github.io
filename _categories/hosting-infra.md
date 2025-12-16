@@ -1,6 +1,8 @@
 ---
 title: "Hosting & Infra"
 weight: 5
+permalink: /categories/hosting-infra/
+lang: en
 ---
 
 Resources on hosting solutions and infrastructure specifics within the Japanese market. This section focuses on solutions that are either physically located in Japan, offer Japanese-language support, or cater to Japanese enterprise requirements.
